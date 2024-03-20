@@ -200,5 +200,5 @@
     _0x1441e1.style.background = "transparent";
     _0x1441e1.style.top = "0px";
     _0x1441e1.style.left = "0px";
-    _0x457575.parentNode.insertBefore(_0x1441e1, _0x457575.nextSibling);
+    // _0x457575.parentNode.insertBefore(_0x1441e1, _0x457575.nextSibling);
   });
