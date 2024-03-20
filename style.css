@@ -1,0 +1,7 @@
+body {
+  background: #222;
+  background: radial-gradient(#000, #0b1114);
+  color: #aaa;
+  font-family: Questrial, Arial, Helvetica, Sans Serif;
+  margin-top: 8px;
+}
